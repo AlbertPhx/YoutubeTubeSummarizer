@@ -1,0 +1,334 @@
+software Engineers were being overvalued
+before and now we're just correcting for
+what makes sense this was probably
+closer to what the expectation was back
+in 2018 everybody was just throwing
+money at you these so-called Tech Bros
+were making upwards of 300,000 400,000
+and even half a million dollar as Junior
+and mid-level Engineers this is me back
+in 2018 a fresh new grad from W Madison
+I had just landed a job as a junior
+engineer at a data analytics startup in
+Chicago and it was fully remote at the
+time I got to travel and live in Greece
+making $75,000 a year while paying $300
+a month in rent which was insane to me
+at the time my hours were flexible and
+every evening I got to explore the rich
+culture of a beautiful European city
+life was good to say the least 2020 was
+more about like having so many job
+opportunities like I would get LinkedIn
+messages from recruiters like twice per
+day it was great especially considering
+where we are now you're probably in a
+position where you were told that
+becoming a software engineer was the
+answer to having this grandiose life a
+life of flexibility High pay the ability
+to challenge yourself and even carry a
+little bit of prestige that came along
+with the title so I wanted to talk about
+whether or not there's still some truth
+to that narrative can you still make
+$300,000 total compensation packages in
+the Bay Area and even eat free food on a
+freaking campus what's my honest advice
+about becoming a software engineer right
+now well let's break it
+down to start we need to define a tech
+bro what the heck is a tech bro let's
+find out so an educated male lacking in
+social skills who also happens to work
+in Tech many of them are Libertarians of
+course who SIM for Elon Musk and or
+people trying to reinvent the wheel with
+some dumb new technology and then the
+example they give this
+is the tech bro with this new blor score
+3,000 people will easily be able to get
+around the city without a car Alice says
+please stop trying to reinvent the train
+so that's an IDE what a tech bro is
+clearly Tech Bros have a bad rap but
+deep down they were the Envy of the
+internet these so-called Tech Bros were
+making upwards of 300,000 400,000 and
+sometimes even half a million dollars as
+Junior and mid-level Engineers they were
+making Day in the Life videos about how
+amazing their lives were how they barely
+did any work and how they went on lavish
+vacations all the time I mean seriously
+when do they even work but here's the
+thing social media doesn't always show
+the entire picture we all know that when
+you see these glamorous videos of people
+coasting by in Tech and making a lot of
+money there's actually a lot of Blood
+Sweat and Tears that go into the whole
+process that isn't actually being shown
+to earn that coveted Tech bro label you
+typically have to go to a good
+University study leak code for hours go
+through several rounds of interviews and
+then keep up with the demands of work
+and politics long enough to get promoted
+now I'm not defending Tech Pros
+necessarily I'm just saying that there's
+a lot more to it than eating free food
+and getting massages every day at work
+and I hate to say it but most people
+would hate actually doing the work
+required to get these glamorous jobs the
+perks actually make it look easier than
+it is so what does this have to do with
+becoming a software engineer now well
+first I'm just trying to create
+transparency over what it felt like to
+be a software engineer back in 2020
+people have a very distorted view of the
+market today because they didn't really
+know what was going on back then all
+they had for reference was the videos
+they were watching online which again
+was overg glamorized the common Tech bro
+even though it's cringey to admit was
+actually creating some sort of value
+otherwise Zuckerberg wouldn't bother
+paying his Engineers upwards of $500,000
+a year don't be fooled by the
+relatability content for working 2 hours
+a day and dragging yourself out of bed
+to actually get to work at 11:00 a.m.
+that's not actually true okay so is it a
+good idea to become a software engineer
+now what all has changed between then
+and now well a lot and a little as we
+mentioned earlier the tech firm life
+wasn't exactly what we expected this was
+probably closer to what the expectation
+was back in 2018 oh wait you guys can't
+see that hold on one
+second okay so this was closer to the
+expectation learning quickly and
+managing time with your manager so in
+2020 you were expected to learn quickly
+as is any software engineer but honestly
+you weren't necessarily expected to
+learn at a pace where you were working
+extra hours there was more flexibility
+around that next one medium productivity
+so that means a PR every week and I
+think every week is probably not that
+much it really depends on your team too
+but having a couple PRS a week I think
+that would indicate okay you're
+semi-productive on the team you could
+Coast to some extent but of course you
+still need to have an understanding of
+the code base and learn and participate
+in those weekly discussions with your
+team next show up to the team meetings
+and participate in conversations again
+this is kind of self-explanatory you
+just participate in the conversations
+just observe what's going on a lot of
+times actually even the first two years
+of my career I didn't really speak much
+in meetings and I did get feedback that
+I should speak more but when I didn't
+really have much to say I mean I did my
+work I showed up on time I didn't really
+have much to say there reasonable
+flexibility on deadlines also honestly
+there was a lot of reasonable
+flexibility back in 2020 I think if
+something wasn't going to get done and
+you communicated with your manager the
+manager would be really good about
+allowing you to push the deadline back
+now not so much and lastly autonomy with
+your development and testing so again
+back then you had a lot more freedom
+over how your work was going to get done
+and when it was going to get done again
+the when part is more about that and
+movable deadline but how you get your
+work done was totally up to you you
+could work asynchronous a lot of times
+you didn't really have to show up to all
+meetings if you didn't feel like they
+were relevant there wasn't that much
+accountability in terms of time spent at
+the job but there was a little bit more
+accountability on what work you ended up
+getting done so that was totally up to
+you okay so how exactly has this changed
+so now you no longer get to manage time
+with your manager you need to manage
+your time with AI I think that's really
+important kind of also self-explanatory
+AI is taking the market like a storm so
+you need to know how to use tools like
+co-pilot like Aug looop like all these
+different internal tools that your
+company will probably use try to use
+that to 10x your productivity okay now
+because of
+AI you can no longer do PRS every week
+you have to do PRS pretty much every
+other day honestly so probably four to
+five times a week you probably can't
+read my writing but four to five times a
+week for PRS I think that's pretty
+normal especially given that you're
+using AI tooling that's the new
+expectation you can no longer just show
+up to these meetings you actually have
+to participate in them and you have to
+actually bring a lot of value in terms
+of system design in terms of programming
+all of these technical skills are now
+something that you have to Showcase out
+loud to your teammates and the
+reasonable flexibility on deadlines you
+can say goodbye to that because that's
+no longer the
+case now deadlines are a lot tighter and
+you're not going to get as much leniency
+you're most likely going to have to come
+up with a very valid excuse if you have
+to push the deadline back otherwise
+you're going to have to talk to your
+manager manager to help them understand
+what's going on so if that means working
+longer hours typically that's the
+case and lastly autonomy with your
+development and testing say goodbye to
+that because you're going to be
+micromanaged a lot more so that's kind
+of the biggest difference with that
+aspect you're going to want to get used
+to someone breathing down your neck and
+I think that's a normal part of the
+process especially when you're working
+in a market that doesn't value you as
+much
+anymore so you might look at these
+differences and think okay what's the
+point why would I want to be a software
+engineer when seems like so much more
+effort to make the same amount of money
+that people were making just 2 years ago
+doing 20% less well you could think
+about it like this the market that we
+were in before was a unicorn that wasn't
+normal people were making tons of money
+they were traveling they had no
+accountability and of course I don't
+want to negate what I said earlier the
+tech Bros did make it seem too good to
+be true and there was still a lot of
+work to be done you didn't have to study
+do elad code problems to get into these
+tough companies once you had the job
+though conditions were a lot better than
+a lot of other professions you didn't
+have to show up for 24 hours a day like
+a doctor and you didn't have to spend
+hours after work looking at briefs like
+a lawyer you did have a lot of
+flexibility and autonomy and freedom now
+if you think about it it just feels like
+a normal job that's the main thing
+that's changed right there's less demand
+for you and so you're treated as such
+and that's just a normal thing in the
+market and I think we have to come to
+terms with that it may get better over
+time but I don't want to promise
+something that I actually don't have any
+control over either i' really hope like
+in the in two three years we're like
+done with the layoffs and we are back to
+not the 2020 phase I don't know if that
+will ever happen again but like go back
+to some sort of normaly so that's kind
+of the way that you can look at it where
+the market has just normalized it hasn't
+gotten worse and if you keep that
+positive mindset it'll help you find a
+job moving forward so the question we've
+all been asking ourselves is it still
+worth it to stay in Tech and my humble
+opinion yes it still is hear me out the
+main thing is you should stay in this
+industry for the right reasons we've
+already seen the people that have joined
+Tech just for the money so the biggest
+perk I would say working in Tech I would
+say the money like I know somebody else
+might tell you like it's so exciting to
+problem solve like okay it's all great
+but if I have to pick one thing like I
+think money is great that my friends is
+the wrong reason sure you'll make money
+in the beginning but you'll work for 5
+years until finally you realize that
+you're burnt out you're not enjoying the
+work and you hate your co-workers only
+do it if you're somewhat passionate
+about solving problems every day and
+learning new technologies pretty often
+because this is the type of job where
+you're going to continuously learn new
+things I know there's different levels
+to software engineering but because
+things come out so quickly sometimes
+Junior Engineers might be the experts
+compared to principal engineers and
+you'll just have to get used to that now
+that being said we did go over the new
+expectations for being a software
+engineer in 2024 yes it's going to feel
+more like a job than an everyday party
+but honestly it should feel like a job
+software Engineers were being overvalued
+before and now we're just correcting for
+what makes sense you'll still be
+compensated well you'll still get free
+food if you're in the Bay Area and
+you'll still have a decent amount of
+flexibility for context when I started
+in the industry I could not even work
+from home for a single day I had to sit
+in traffic for 1 hour a day each way
+every single day I know the horror the
+fact is what we have today is still a
+luxury but in order to keep this luxury
+you just have to work a little bit
+harder to get it it's not dissimilar to
+being a doctor a lawyer or psychologist
+those jobs are actually a lot more
+physically demanding and in terms of
+your hours spent a lot more demanding on
+that side as well yes like Tech may not
+have great work life balance or at least
+the image of a great work life balance
+but when you compare it to other
+Industries other jobs it is actually
+pretty solid you it can get better than
+this in my opinion in this rule you'll
+just have to show that you're more
+competitive and driven to actually get
+things done a little bit quicker than
+you're normally used to and again you
+also have to be driven to use new tools
+um AI to stand out from the crowd so
+those are my two cents on what it's like
+to be a software engineer and if you
+should become one if you were thinking
+about it so hopefully my advice helped
+I'll see you in the next one
